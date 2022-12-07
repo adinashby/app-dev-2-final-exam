@@ -61,4 +61,4 @@ The sample data looks like the below:
 
 Now, the task is to **use API calls to fetch the entire JSON data and display using ListView.** Each child item should contain a name, email id, phone number, address, and company details. The desired emulator output is given below. Though it displays for one user, you have to fetch all the users.
 
-![](Q1_2.png)
+![](Q1.png)
