@@ -61,4 +61,19 @@ The sample data looks like the below:
 
 Now, the task is to **use API calls to fetch the entire JSON data and display using ListView.** Each child item should contain a name, email id, phone number, address, and company details. The desired emulator output is given below. Though it displays for one user, you have to fetch all the users.
 
-![](Q1.png)
+![](Q1_1.png)
+
+For the second part, add a button to the main page, on top or the bottom of the page so that when you click on it, it will navigate to currency converter page. It should be able to convert currencies between USD, CAD, GBP. You can show the result as an alert or in a label. Use the rates below:
+
+USD to CAD -> 1.35
+CAD to USD -> 0.73
+
+USD to GBP -> 0.79
+GBP to USD -> 1.25
+
+CAD to GBP -> 0.58
+GBP to CAD -> 1.71
+
+The page should look like below:
+
+![](Q1_2.png)
